@@ -1,1 +1,2 @@
 # gonew-sample
+gonew のサンプル
